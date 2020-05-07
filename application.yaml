@@ -1,9 +1,8 @@
 custom.prop: ddd
 a:
-  b: ccc
-  d: eee
+  b: cccFjfdjgdsj
+  d: eeeAAAAAAAAAAAAAAAAAAAAAA
 
 management.endpoints.web.exposure.include: "*"
-spring:
-  profiles:
-    active: test
+
+
