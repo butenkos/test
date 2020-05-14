@@ -1,8 +1,0 @@
-custom.prop: ddd
-a:
-  b: cccFjfdjgdsj
-  d: eeeAAAAAAAAAAAAAAAAAAAAAA
-
-management.endpoints.web.exposure.include: "*"
-
-
